@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # imall
 
 > A Vue.js project
@@ -19,3 +20,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# app
+vue,stylus,app
+>>>>>>> 0f785b024949a8c377b61e0c5d97a6c046b61392
